@@ -1,52 +1,32 @@
 [
 	{
-		"protocol": "socks4",
+		"protocol": "http",
 		"username": null,
 		"password": null,
-		"host": "188.244.106.81",
-		"port": 1080,
+		"host": "165.225.72.38",
+		"port": 11579,
 		"exit_ip": null,
-		"timeout": 0.16,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "51.89.21.99",
-		"port": 37555,
-		"exit_ip": null,
-		"timeout": 0.22,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "51.89.21.99",
-		"port": 56186,
-		"exit_ip": null,
-		"timeout": 0.22,
+		"timeout": 0.18,
 		"geolocation": null
 	},
 	{
 		"protocol": "socks5",
 		"username": null,
 		"password": null,
-		"host": "161.97.161.81",
-		"port": 62050,
+		"host": "188.244.106.81",
+		"port": 1080,
 		"exit_ip": null,
-		"timeout": 0.24,
+		"timeout": 0.21,
 		"geolocation": null
 	},
 	{
-		"protocol": "http",
+		"protocol": "socks5",
 		"username": null,
 		"password": null,
-		"host": "136.226.194.151",
-		"port": 9480,
+		"host": "51.89.21.99",
+		"port": 20142,
 		"exit_ip": null,
-		"timeout": 0.25,
+		"timeout": 0.22,
 		"geolocation": null
 	},
 	{
@@ -54,49 +34,49 @@
 		"username": null,
 		"password": null,
 		"host": "179.43.167.195",
-		"port": 1080,
-		"exit_ip": null,
-		"timeout": 0.28,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks5",
-		"username": null,
-		"password": null,
-		"host": "188.244.106.81",
 		"port": 1080,
 		"exit_ip": null,
 		"timeout": 0.29,
 		"geolocation": null
 	},
 	{
-		"protocol": "socks5",
+		"protocol": "socks4",
 		"username": null,
 		"password": null,
-		"host": "179.43.167.195",
+		"host": "188.244.106.81",
 		"port": 1080,
 		"exit_ip": null,
-		"timeout": 0.37,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks5",
-		"username": null,
-		"password": null,
-		"host": "165.22.204.32",
-		"port": 59166,
-		"exit_ip": null,
-		"timeout": 0.43,
+		"timeout": 0.31,
 		"geolocation": null
 	},
 	{
 		"protocol": "http",
 		"username": null,
 		"password": null,
-		"host": "144.76.138.69",
-		"port": 8888,
+		"host": "37.16.29.249",
+		"port": 3128,
 		"exit_ip": null,
-		"timeout": 0.46,
+		"timeout": 0.38,
+		"geolocation": null
+	},
+	{
+		"protocol": "socks5",
+		"username": null,
+		"password": null,
+		"host": "179.43.167.195",
+		"port": 1080,
+		"exit_ip": null,
+		"timeout": 0.38,
+		"geolocation": null
+	},
+	{
+		"protocol": "socks4",
+		"username": null,
+		"password": null,
+		"host": "45.138.87.238",
+		"port": 1080,
+		"exit_ip": null,
+		"timeout": 0.52,
 		"geolocation": null
 	},
 	{
@@ -106,47 +86,7 @@
 		"host": "31.170.22.127",
 		"port": 1080,
 		"exit_ip": null,
-		"timeout": 0.53,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "45.138.87.238",
-		"port": 1080,
-		"exit_ip": null,
-		"timeout": 0.53,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks5",
-		"username": null,
-		"password": null,
-		"host": "51.89.21.99",
-		"port": 37182,
-		"exit_ip": null,
-		"timeout": 0.59,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks5",
-		"username": null,
-		"password": null,
-		"host": "45.138.87.238",
-		"port": 1080,
-		"exit_ip": null,
-		"timeout": 0.62,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "95.46.140.214",
-		"port": 1081,
-		"exit_ip": null,
-		"timeout": 0.62,
+		"timeout": 0.58,
 		"geolocation": null
 	},
 	{
@@ -156,37 +96,27 @@
 		"host": "192.162.232.15",
 		"port": 1080,
 		"exit_ip": null,
-		"timeout": 0.65,
+		"timeout": 0.59,
+		"geolocation": null
+	},
+	{
+		"protocol": "http",
+		"username": null,
+		"password": null,
+		"host": "136.226.194.151",
+		"port": 9480,
+		"exit_ip": null,
+		"timeout": 0.63,
 		"geolocation": null
 	},
 	{
 		"protocol": "socks5",
 		"username": null,
 		"password": null,
-		"host": "31.170.22.127",
+		"host": "45.138.87.238",
 		"port": 1080,
 		"exit_ip": null,
 		"timeout": 0.66,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks5",
-		"username": null,
-		"password": null,
-		"host": "146.70.164.210",
-		"port": 1080,
-		"exit_ip": null,
-		"timeout": 0.68,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks5",
-		"username": null,
-		"password": null,
-		"host": "45.91.92.45",
-		"port": 20397,
-		"exit_ip": null,
-		"timeout": 0.7,
 		"geolocation": null
 	},
 	{
@@ -196,54 +126,84 @@
 		"host": "178.48.68.61",
 		"port": 18080,
 		"exit_ip": null,
-		"timeout": 0.75,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "109.86.228.165",
-		"port": 5678,
-		"exit_ip": null,
-		"timeout": 0.9,
+		"timeout": 0.69,
 		"geolocation": null
 	},
 	{
 		"protocol": "socks5",
 		"username": null,
 		"password": null,
-		"host": "70.34.251.195",
+		"host": "31.170.22.127",
 		"port": 1080,
 		"exit_ip": null,
-		"timeout": 0.91,
+		"timeout": 0.73,
 		"geolocation": null
 	},
 	{
-		"protocol": "socks4",
+		"protocol": "socks5",
 		"username": null,
 		"password": null,
 		"host": "146.70.164.210",
 		"port": 1080,
 		"exit_ip": null,
-		"timeout": 0.97,
+		"timeout": 0.77,
 		"geolocation": null
 	},
 	{
 		"protocol": "socks4",
 		"username": null,
 		"password": null,
-		"host": "70.34.251.195",
+		"host": "188.34.199.39",
 		"port": 1080,
 		"exit_ip": null,
-		"timeout": 1.1,
+		"timeout": 0.84,
+		"geolocation": null
+	},
+	{
+		"protocol": "socks4",
+		"username": null,
+		"password": null,
+		"host": "51.89.21.99",
+		"port": 30487,
+		"exit_ip": null,
+		"timeout": 1.18,
+		"geolocation": null
+	},
+	{
+		"protocol": "socks4",
+		"username": null,
+		"password": null,
+		"host": "51.89.21.99",
+		"port": 32043,
+		"exit_ip": null,
+		"timeout": 1.22,
+		"geolocation": null
+	},
+	{
+		"protocol": "socks4",
+		"username": null,
+		"password": null,
+		"host": "23.19.244.109",
+		"port": 1080,
+		"exit_ip": null,
+		"timeout": 1.25,
+		"geolocation": null
+	},
+	{
+		"protocol": "socks4",
+		"username": null,
+		"password": null,
+		"host": "51.89.21.99",
+		"port": 20142,
+		"exit_ip": null,
+		"timeout": 1.26,
 		"geolocation": null
 	},
 	{
 		"protocol": "http",
 		"username": null,
 		"password": null,
-		"host": "165.155.228.16",
+		"host": "165.155.228.18",
 		"port": 9480,
 		"exit_ip": null,
 		"timeout": 1.33,
@@ -254,16 +214,6 @@
 		"username": null,
 		"password": null,
 		"host": "165.155.228.15",
-		"port": 9480,
-		"exit_ip": null,
-		"timeout": 1.33,
-		"geolocation": null
-	},
-	{
-		"protocol": "http",
-		"username": null,
-		"password": null,
-		"host": "165.155.228.19",
 		"port": 9480,
 		"exit_ip": null,
 		"timeout": 1.34,
@@ -273,10 +223,10 @@
 		"protocol": "http",
 		"username": null,
 		"password": null,
-		"host": "165.155.228.14",
+		"host": "165.155.228.18",
 		"port": 9400,
 		"exit_ip": null,
-		"timeout": 1.35,
+		"timeout": 1.34,
 		"geolocation": null
 	},
 	{
@@ -293,18 +243,8 @@
 		"protocol": "http",
 		"username": null,
 		"password": null,
-		"host": "165.155.228.17",
+		"host": "165.155.228.19",
 		"port": 9480,
-		"exit_ip": null,
-		"timeout": 1.35,
-		"geolocation": null
-	},
-	{
-		"protocol": "http",
-		"username": null,
-		"password": null,
-		"host": "213.153.63.119",
-		"port": 8080,
 		"exit_ip": null,
 		"timeout": 1.36,
 		"geolocation": null
@@ -313,10 +253,10 @@
 		"protocol": "http",
 		"username": null,
 		"password": null,
-		"host": "165.155.228.18",
-		"port": 9400,
+		"host": "165.155.228.17",
+		"port": 9480,
 		"exit_ip": null,
-		"timeout": 1.39,
+		"timeout": 1.36,
 		"geolocation": null
 	},
 	{
@@ -326,67 +266,7 @@
 		"host": "165.155.228.15",
 		"port": 9400,
 		"exit_ip": null,
-		"timeout": 1.45,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks5",
-		"username": null,
-		"password": null,
-		"host": "23.19.244.109",
-		"port": 1080,
-		"exit_ip": null,
-		"timeout": 1.48,
-		"geolocation": null
-	},
-	{
-		"protocol": "http",
-		"username": null,
-		"password": null,
-		"host": "159.203.70.121",
-		"port": 3128,
-		"exit_ip": null,
-		"timeout": 1.53,
-		"geolocation": null
-	},
-	{
-		"protocol": "http",
-		"username": null,
-		"password": null,
-		"host": "51.79.71.106",
-		"port": 8080,
-		"exit_ip": null,
-		"timeout": 1.54,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "91.200.115.49",
-		"port": 1080,
-		"exit_ip": null,
-		"timeout": 1.59,
-		"geolocation": null
-	},
-	{
-		"protocol": "http",
-		"username": null,
-		"password": null,
-		"host": "165.155.228.14",
-		"port": 9480,
-		"exit_ip": null,
-		"timeout": 1.64,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "23.19.244.109",
-		"port": 1080,
-		"exit_ip": null,
-		"timeout": 1.64,
+		"timeout": 1.37,
 		"geolocation": null
 	},
 	{
@@ -396,77 +276,67 @@
 		"host": "165.155.228.16",
 		"port": 9400,
 		"exit_ip": null,
-		"timeout": 1.8,
+		"timeout": 1.37,
+		"geolocation": null
+	},
+	{
+		"protocol": "http",
+		"username": null,
+		"password": null,
+		"host": "165.155.228.14",
+		"port": 9480,
+		"exit_ip": null,
+		"timeout": 1.41,
+		"geolocation": null
+	},
+	{
+		"protocol": "http",
+		"username": null,
+		"password": null,
+		"host": "159.203.70.121",
+		"port": 3128,
+		"exit_ip": null,
+		"timeout": 1.54,
+		"geolocation": null
+	},
+	{
+		"protocol": "socks5",
+		"username": null,
+		"password": null,
+		"host": "23.19.244.109",
+		"port": 1080,
+		"exit_ip": null,
+		"timeout": 1.58,
 		"geolocation": null
 	},
 	{
 		"protocol": "socks4",
 		"username": null,
 		"password": null,
-		"host": "185.231.204.77",
-		"port": 1080,
+		"host": "95.46.140.214",
+		"port": 1081,
 		"exit_ip": null,
-		"timeout": 1.98,
+		"timeout": 1.62,
 		"geolocation": null
 	},
 	{
-		"protocol": "socks5",
+		"protocol": "socks4",
 		"username": null,
 		"password": null,
-		"host": "137.184.133.124",
-		"port": 33366,
+		"host": "51.89.21.99",
+		"port": 18147,
 		"exit_ip": null,
-		"timeout": 1.99,
+		"timeout": 1.63,
 		"geolocation": null
 	},
 	{
-		"protocol": "http",
+		"protocol": "socks4",
 		"username": null,
 		"password": null,
-		"host": "72.10.164.178",
-		"port": 5035,
+		"host": "213.16.81.182",
+		"port": 35559,
 		"exit_ip": null,
-		"timeout": 2.12,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks5",
-		"username": null,
-		"password": null,
-		"host": "37.27.37.65",
-		"port": 10105,
-		"exit_ip": null,
-		"timeout": 2.32,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks5",
-		"username": null,
-		"password": null,
-		"host": "37.27.35.27",
-		"port": 10075,
-		"exit_ip": null,
-		"timeout": 2.41,
-		"geolocation": null
-	},
-	{
-		"protocol": "http",
-		"username": null,
-		"password": null,
-		"host": "72.10.164.178",
-		"port": 11611,
-		"exit_ip": null,
-		"timeout": 2.42,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks5",
-		"username": null,
-		"password": null,
-		"host": "104.238.100.115",
-		"port": 45314,
-		"exit_ip": null,
-		"timeout": 2.46,
+		"timeout": 1.65,
 		"geolocation": null
 	},
 	{
@@ -476,17 +346,37 @@
 		"host": "23.237.145.36",
 		"port": 31288,
 		"exit_ip": null,
-		"timeout": 2.47,
+		"timeout": 1.72,
 		"geolocation": null
 	},
 	{
 		"protocol": "http",
 		"username": null,
 		"password": null,
-		"host": "213.230.126.26",
-		"port": 3128,
+		"host": "165.155.228.16",
+		"port": 9480,
 		"exit_ip": null,
-		"timeout": 2.54,
+		"timeout": 1.72,
+		"geolocation": null
+	},
+	{
+		"protocol": "socks5",
+		"username": null,
+		"password": null,
+		"host": "70.34.251.195",
+		"port": 1080,
+		"exit_ip": null,
+		"timeout": 2.0,
+		"geolocation": null
+	},
+	{
+		"protocol": "http",
+		"username": null,
+		"password": null,
+		"host": "94.231.192.43",
+		"port": 8080,
+		"exit_ip": null,
+		"timeout": 2.24,
 		"geolocation": null
 	},
 	{
@@ -496,97 +386,7 @@
 		"host": "170.78.211.161",
 		"port": 1080,
 		"exit_ip": null,
-		"timeout": 2.62,
-		"geolocation": null
-	},
-	{
-		"protocol": "http",
-		"username": null,
-		"password": null,
-		"host": "38.191.200.72",
-		"port": 999,
-		"exit_ip": null,
-		"timeout": 2.67,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "172.104.129.235",
-		"port": 1080,
-		"exit_ip": null,
-		"timeout": 2.73,
-		"geolocation": null
-	},
-	{
-		"protocol": "http",
-		"username": null,
-		"password": null,
-		"host": "146.190.80.158",
-		"port": 9090,
-		"exit_ip": null,
-		"timeout": 2.83,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "45.129.38.212",
-		"port": 4444,
-		"exit_ip": null,
-		"timeout": 2.85,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "70.35.213.226",
-		"port": 4153,
-		"exit_ip": null,
-		"timeout": 2.87,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "159.224.243.185",
-		"port": 61303,
-		"exit_ip": null,
-		"timeout": 2.89,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks5",
-		"username": null,
-		"password": null,
-		"host": "67.213.212.55",
-		"port": 15533,
-		"exit_ip": null,
-		"timeout": 2.9,
-		"geolocation": null
-	},
-	{
-		"protocol": "socks4",
-		"username": null,
-		"password": null,
-		"host": "51.89.21.99",
-		"port": 62481,
-		"exit_ip": null,
-		"timeout": 2.96,
-		"geolocation": null
-	},
-	{
-		"protocol": "http",
-		"username": null,
-		"password": null,
-		"host": "40.90.177.99",
-		"port": 8888,
-		"exit_ip": null,
-		"timeout": 2.98,
+		"timeout": 2.45,
 		"geolocation": null
 	},
 	{
@@ -596,7 +396,57 @@
 		"host": "128.199.254.13",
 		"port": 9090,
 		"exit_ip": null,
-		"timeout": 2.99,
+		"timeout": 2.8,
+		"geolocation": null
+	},
+	{
+		"protocol": "http",
+		"username": null,
+		"password": null,
+		"host": "146.190.80.158",
+		"port": 9090,
+		"exit_ip": null,
+		"timeout": 2.82,
+		"geolocation": null
+	},
+	{
+		"protocol": "socks5",
+		"username": null,
+		"password": null,
+		"host": "51.75.126.150",
+		"port": 18746,
+		"exit_ip": null,
+		"timeout": 2.89,
+		"geolocation": null
+	},
+	{
+		"protocol": "http",
+		"username": null,
+		"password": null,
+		"host": "103.112.163.91",
+		"port": 3125,
+		"exit_ip": null,
+		"timeout": 2.93,
+		"geolocation": null
+	},
+	{
+		"protocol": "socks4",
+		"username": null,
+		"password": null,
+		"host": "172.233.254.134",
+		"port": 1080,
+		"exit_ip": null,
+		"timeout": 2.94,
+		"geolocation": null
+	},
+	{
+		"protocol": "http",
+		"username": null,
+		"password": null,
+		"host": "128.199.187.36",
+		"port": 9090,
+		"exit_ip": null,
+		"timeout": 2.96,
 		"geolocation": null
 	}
 ]
