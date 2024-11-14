@@ -4,7 +4,7 @@ Proxies are checked on my VPS every 15 minutes using [proxy-scraper-checker](htt
 
 JSON files contain detailed information about the proxies.
 
-Total Proxies: `444`
+Total Proxies: `373`
 
 
 ## Download
